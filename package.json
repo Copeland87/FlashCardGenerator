@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Copeland87/FlashCardGenerator"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Copeland87/FlashCardGenerator"
+  },
+  "homepage": "https://github.com/Copeland87/FlashCardGenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.2.3"
+  }
+}
